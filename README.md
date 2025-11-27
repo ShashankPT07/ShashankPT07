@@ -59,7 +59,7 @@
 
 ## 🌐 Visitor Counter  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShashankPT07&style=for-the-badge&color=brightgreen" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ShashankPT07.ShashankPT07" alt="visitor badge"/>
 </p>
 
 ---
