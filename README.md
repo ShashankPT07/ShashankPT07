@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&colorA=FFA500&colorB=FFFF00&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Shashank;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Web+Developer;Welcome+to+my+GitHub+Profile!" />
 </p>
 
----
-
-## 📫 Contact Me
-<p align="center">
-  📧 Email: <a href="mailto:shashankpt07@example.com">shashankpts@gmail.com</a>
-</p>
 
 ---
 
