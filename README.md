@@ -50,12 +50,6 @@
 
 ---
 
-## 🌐 Visitor Counter  
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ShashankPT07.ShashankPT07" alt="visitor badge"/>
-</p>
-
----
 
 ## ⭐ Thanks for Visiting!
 <p align="center">
