@@ -36,20 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShashankPT07&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashankPT07&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankPT07&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
-
-
----
-
 
 ## ⭐ Thanks for Visiting!
 <p align="center">
