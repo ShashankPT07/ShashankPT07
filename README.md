@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Full Stack Developer (Java + React)  
+- 🔭 Full Stack Developer (Java )  
 - 💡 Passionate about building end-to-end real-world apps    
 - 🤝 Open to collaborating on Spring Boot + React projects  
 - ⚡ Love building, debugging, and exploring new tech
